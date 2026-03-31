@@ -12,7 +12,6 @@ Also immer so abstimmen, dass der Ton **moeglichst hoch** wird.
 ## Taster
 
 - **kurz druecken** = Leistungsmessung ein oder aus
-- **lang druecken** = SWR-Messung ein oder aus
 
 ## So gehst du vor fuer Leistung
 
