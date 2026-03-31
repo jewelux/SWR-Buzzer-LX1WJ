@@ -15,6 +15,24 @@ Zusaetzlich ist eine `SWR`-Messung vorbereitet. Sie ist schon im Geraet vorhande
 
 ![Aufbau](images/image1.jpg)
 
+## Anleitungen
+
+- [Anleitung Bedienung](docs/ANLEITUNG_BEDIENUNG.md)
+- [Anleitung Service](docs/ANLEITUNG_SERVICE.md)
+
+## Lizenzhinweis
+
+Dieses Projekt unterliegt meinen Lizenzbedingungen.
+
+Bitte die jeweiligen Lizenzhinweise im Projekt beachten, bevor das Projekt genutzt, weitergegeben, geaendert oder veroeffentlicht wird.
+
+## Haftungsausschluss
+
+Die Nutzung dieses Projekts erfolgt auf eigene Verantwortung.
+
+Es wird ohne Gewaehr bereitgestellt. Fuer Schaeden, Fehlfunktionen oder Folgeschaeden durch Aufbau, Verdrahtung, Einstellungen oder Nutzung wird keine Haftung uebernommen.
+
+
 ## Fuer den Anwender
 
 Im normalen Betrieb ist nur wenig wichtig:
