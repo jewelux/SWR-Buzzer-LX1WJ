@@ -1,0 +1,17 @@
+# Arduino / IDE
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+build/
+dist/
+*.elf
+*.bin
+*.hex
