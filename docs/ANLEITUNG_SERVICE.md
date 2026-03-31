@@ -14,6 +14,7 @@ Es gibt zwei Hauptaufgaben:
 
 ## Hardware
 
+- esp32 dev. board
 - `GPIO25` -> passiver Piezo
 - `GPIO27` -> Taster nach `GND`
 - `GPIO34` -> Forward-Messspannung
@@ -26,6 +27,7 @@ Je Kanal:
 - `100 kOhm` vom Sensor-Ausgang zum ESP32-Pin
 - `33 kOhm` vom ESP32-Pin nach `GND`
 - `3.3 V Zenerdiode` parallel zum `33 kOhm`
+oder
 - je ein `Trimmpoti` fuer `Uf` und `Ur`
 
 Wichtig:
@@ -85,6 +87,7 @@ Einstellbar sind:
 - `Startfrequenz`
 - `Spannweite in Prozent`
 - `Buzzer Lautstaerke 1-10`
+
 - `SWR Messung ein oder aus`
 - `SWR Tonfrequenz`
 - `SWR Piepdauer`
